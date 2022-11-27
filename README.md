@@ -4,8 +4,10 @@
 1 - how to run this project
 ``` 
 <code>
-   bundle install </br>
-   rspec
+   bundle install
+</code><br>
+<code>
+    rspec
 </code><br/><br/>
 
 ```
